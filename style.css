@@ -1,0 +1,17 @@
+*{
+    padding:0;
+    margin: 0px;
+}
+body{
+
+    background-color: rgb(216, 172, 118);
+}
+
+.principal{
+    width:95%;
+    height: auto;
+    margin:auto;
+    padding: 15px;
+    box-shadow: 2px 4px rgba(rgba(34, 206, 117, 0.555)rgb(51, 168, 51)en, rgba(52, 52, 180, 0.499), alpha);
+    
+}
