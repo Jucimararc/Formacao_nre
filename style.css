@@ -21,7 +21,7 @@ body{
         width:95%;
         padding:20px;
         margin:5px;
-        display:flex;
+        display:inline-block;
         text-align: center;
         align-items: center;
         border-bottom: #db7171da solid; 
@@ -31,5 +31,6 @@ body{
         text-align: center;
         font-size: 24px;
         text-shadow:2px 4px rgba(red, green, blue, alpha);
-        color:#dd9a26
+        color:#dd9a26;
+        float: right;
     }
