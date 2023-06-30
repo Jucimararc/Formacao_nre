@@ -22,22 +22,23 @@ body {
     width: 95%;
     padding: 20px;
     margin: 5px;
-    display: inline-block;
-    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     align-items: center;
+    text-align: center;
     border-bottom: #db7171 solid; /* Substitua pela cor desejada com seis dígitos hexadecimais */
 }
 
 .titulo {
     text-transform: uppercase;
-    text-align: center;
     font-size: 24px;
     text-shadow: 2px 4px rgba(255, 0, 0, 0.5); /* Substitua os valores red, green, blue e alpha pelos valores desejados */
     color: #dd9a26;
-    /*float: right;*/
 }
 
 .secao1 {
     padding: 2px;
     font-size: 14pt;
+    text-align: center;
 }
